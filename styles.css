@@ -1,0 +1,51 @@
+#page{
+  text-align: center;
+  background: #393E46;
+  height: 100%;
+}
+.titel{
+  font-size: 8rem;
+  font-family: 'Lobster', cursive;
+  color: #4FBDBA;
+  text-shadow: 5px 0 #232931;
+  padding-top: 2rem;
+  margin-bottom: 7rem;
+}
+#container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+#footer{
+  padding-top: 1%;
+      padding-bottom: 5%;
+  text-align: center;
+    font-family: 'Indie Flower', cursive;
+    background: #393E46;
+    color:#0D7377;
+
+}
+.play-btn{
+  height: 4rem;
+  width: 10rem;
+  font-size: 4rem;
+  font-weight: 2rem;
+}
+.img{
+  width: 80%;
+  height: 60%;
+  width: 60%;
+}
+.link{
+  color:#fff;
+    text-decoration: none;
+}
