@@ -1,6 +1,7 @@
+body{
+  background: #393E46;}
 #page{
   text-align: center;
-  background: #393E46;
   height: 100%;
 }
 .titel{
@@ -30,7 +31,6 @@ p {
       padding-bottom: 5%;
   text-align: center;
     font-family: 'Indie Flower', cursive;
-    background: #393E46;
     color:#0D7377;
 
 }
